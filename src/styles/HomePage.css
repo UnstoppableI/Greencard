@@ -1,0 +1,12 @@
+.hero-section{
+    padding: 50px 0;
+    text-align:center;
+    background-color: #f8f9fa;
+    /* background-image: url(https://www.greencard.inc/_next/image?url=%2Fliberty-bg.webp&w=1920&q=75) ; */
+    
+    object-fit: contain;
+}
+
+.card-title{
+    color: #098938;
+}
